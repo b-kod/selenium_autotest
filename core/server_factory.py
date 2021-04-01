@@ -1,5 +1,4 @@
 import os
-from core.server.browserstack import Browserstack
 from core.server.seleneium_standalone import SeleniumStandalone
 
 
